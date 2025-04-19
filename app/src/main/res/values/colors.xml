@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Basic Neutrals -->
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="gray">#808080</color>
+    <color name="light_gray">#D3D3D3</color>
+    <color name="dark_gray">#2F4F4F</color>
+    <color name="charcoal">#36454F</color>
+    <color name="silver">#C0C0C0</color>
+    <color name="ivory">#FFFFF0</color>
+    <color name="snow">#FFFAFA</color>
+    <color name="linen">#FAF0E6</color>
+
+    <!-- Blues -->
+    <color name="sky_blue">#87CEEB</color>
+    <color name="light_blue">#ADD8E6</color>
+    <color name="deep_sky_blue">#00BFFF</color>
+    <color name="royal_blue">#4169E1</color>
+    <color name="navy_blue">#000080</color>
+    <color name="midnight_blue">#191970</color>
+    <color name="steel_blue">#4682B4</color>
+    <color name="powder_blue">#B0E0E6</color>
+    <color name="electric_blue">#7DF9FF</color>
+    <color name="baby_blue">#89CFF0</color>
+
+    <!-- Reds -->
+    <color name="crimson">#DC143C</color>
+    <color name="fire_red">#B22222</color>
+    <color name="cherry_red">#D2042D</color>
+    <color name="rose_red">#FF007F</color>
+    <color name="tomato">#FF6347</color>
+    <color name="salmon">#FA8072</color>
+    <color name="light_coral">#F08080</color>
+    <color name="blood_red">#8A0303</color>
+    <color name="brick_red">#CB4154</color>
+    <color name="dark_maroon">#800000</color>
+
+    <!-- Greens -->
+    <color name="forest_green">#228B22</color>
+    <color name="lime_green">#32CD32</color>
+    <color name="neon_green">#39FF14</color>
+    <color name="mint_green">#98FF98</color>
+    <color name="sage_green">#B2AC88</color>
+    <color name="olive">#808000</color>
+    <color name="deep_teal">#006D5B</color>
+    <color name="sea_green">#2E8B57</color>
+    <color name="emerald_green">#50C878</color>
+    <color name="dark_green">#006400</color>
+
+    <!-- Yellows & Oranges -->
+    <color name="sunshine_yellow">#FFD700</color>
+    <color name="amber">#FFBF00</color>
+    <color name="gold">#FFD700</color>
+    <color name="goldenrod">#DAA520</color>
+    <color name="tangerine">#F28500</color>
+    <color name="carrot_orange">#ED9121</color>
+    <color name="burnt_orange">#CC5500</color>
+    <color name="mustard">#FFDB58</color>
+    <color name="peach">#FFE5B4</color>
+    <color name="apricot">#FBCEB1</color>
+
+    <!-- Purples & Pinks -->
+    <color name="lavender">#E6E6FA</color>
+    <color name="deep_purple">#4B0082</color>
+    <color name="mauve">#E0B0FF</color>
+    <color name="violet">#8A2BE2</color>
+    <color name="plum">#DDA0DD</color>
+    <color name="orchid">#DA70D6</color>
+    <color name="magenta">#C71585</color>
+    <color name="hot_pink">#FF69B4</color>
+    <color name="fuchsia">#FF00FF</color>
+    <color name="pastel_pink">#FFD1DC</color>
+
+    <!-- Earthy & Neutral Tones -->
+    <color name="sand">#C2B280</color>
+    <color name="taupe">#483C32</color>
+    <color name="beige">#F5F5DC</color>
+    <color name="mocha">#3C2F2F</color>
+    <color name="warm_brown">#964B00</color>
+    <color name="cinnamon">#7B3F00</color>
+    <color name="coffee">#4B3621</color>
+    <color name="rust">#B7410E</color>
+    <color name="khaki">#F0E68C</color>
+    <color name="cream">#FFFDD0</color>
+
+    <!-- Neon & Cyberpunk Colors -->
+    <color name="neon_pink">#FF10F0</color>
+    <color name="cyber_blue">#00FFFF</color>
+    <color name="electric_purple">#BF00FF</color>
+    <color name="acid_green">#B0FC38</color>
+    <color name="neon_orange">#FF5F1F</color>
+    <color name="vibrant_cyan">#00E5EE</color>
+    <color name="ultraviolet">#6A0DAD</color>
+    <color name="neon_lime">#CCFF00</color>
+    <color name="laser_lemon">#FFFF66</color>
+    <color name="fluorescent_blue">#15F4EE</color>
+
+    <!-- Pastel Shades -->
+    <color name="pastel_blue">#AEC6CF</color>
+    <color name="pastel_green">#77DD77</color>
+    <color name="pastel_purple">#B39EB5</color>
+    <color name="pastel_yellow">#FFFFB3</color>
+    <color name="pastel_orange">#FFD8B1</color>
+    <color name="pastel_red">#FF6961</color>
+    <color name="baby_pink">#F4C2C2</color>
+    <color name="baby_lavender">#E3E4FA</color>
+    <color name="pastel_peach">#FFDAB9</color>
+    <color name="pastel_mint">#AAF0D1</color>
+
+    <!-- Dark Tones -->
+    <color name="onyx">#353839</color>
+    <color name="deep_black">#050505</color>
+    <color name="gunmetal">#2C3539</color>
+    <color name="midnight_violet">#450920</color>
+    <color name="obsidian">#0B0B0B</color>
+    <color name="space_gray">#4B4B4B</color>
+    <color name="storm_gray">#71797E</color>
+    <color name="dark_cyan">#008B8B</color>
+    <color name="deep_crimson">#8B0000</color>
+    <color name="carbon">#333333</color>
+
+    <!-- Bonus Uniques -->
+    <color name="turquoise">#40E0D0</color>
+    <color name="coral">#FF7F50</color>
+    <color name="topaz">#FFC87C</color>
+    <color name="sapphire">#0F52BA</color>
+    <color name="ruby_red">#9B111E</color>
+    <color name="mystic_teal">#008B8B</color>
+    <color name="candy_pink">#FFB6C1</color>
+    <color name="electric_lime">#CCFF00</color>
+    <color name="sunset_orange">#FF4500</color>
+    <color name="dusky_purple">#795C9B</color>
+</resources>
